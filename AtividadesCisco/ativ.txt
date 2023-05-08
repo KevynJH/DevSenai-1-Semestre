@@ -1,0 +1,36 @@
+11/04/2023
+
+Atividade:
+
+ADM:
+2.pendrives
+2.impressoras(Sprn1 e Sprn2)
+2.computadores(Sec1 e Sec2)
+computadores- Sec1,Sprn1:registros de notas eemissão de boletim e registro dos pagamentos efetuados e emissão dos carnês
+impressoras- Sec2,Sprn2: emissão de boletins e emissão dos carnês
+pendrives- transferir boletim dos alunos
+
+BIBLIOTECA:
+1.computador(BIb);
+1.pendrive
+computador(Bib)- fica à disposição dos alunos para consulta de livros e registro de empréstimos e devoluções
+pendrive- arquidvo dos cartões de empréstimo ou atualizar a listagem de livros que são comprados ou recebidos por doação
+ 
+SALA DOS PROFESSORES:
+2.computadores(Prof1 e Prof2)
+2.impressoras(Pprn1 e Pprn2)
+computadores- Prof1 e Prof2: para preparação de aulas e lançamento de notas e acesso à Internet e ao correio eletrônico.
+impressoras- Pprn1 e Pprn2: para impressão de correio eletrônico e programas de aula.
+
+SALA DE ESTUDOS:
+1.computador(Est1);
+1.impressora(Eprn1);
+computador- permitir aos alunos efetuarem pesquisas na Internet
+impressora-imprimir os resultados das pesquisas dos alunos
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Itens Importantes para criar uma rede:
+computador
+cabo
+roteador
